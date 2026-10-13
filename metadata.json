@@ -1,0 +1,6 @@
+{
+  "name": "Thailand Manpower Outlook & Headcount Rationalization Dashboard 2026",
+  "description": "แดชบอร์ดคาดการณ์และวิเคราะห์แนวโน้มกำลังคน (Manpower Outlook & Headcount Reduction Analysis) โรงงานไทยปี 2026 แบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
